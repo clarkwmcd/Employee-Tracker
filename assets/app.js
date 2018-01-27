@@ -9,12 +9,12 @@
 */
 // 1. Initialize Firebase
 var config = {
-  apiKey: "AIzaSyDXF--nMiDtaV8TpNpOewXufZpP8HeaWRA",
-  authDomain: "myfirstproject-bf89b.firebaseapp.com",
-  databaseURL: "https://myfirstproject-bf89b.firebaseio.com",
-  projectId: "myfirstproject-bf89b",
-  storageBucket: "myfirstproject-bf89b.appspot.com",
-  messagingSenderId: "276933097127"
+  apiKey: "AIzaSyC7-yQpar-6RJ6i-3OkFhBG1KEGpVMRf_g",
+  authDomain: "employee-tracker-621d5.firebaseapp.com",
+  databaseURL: "https://employee-tracker-621d5.firebaseio.com",
+  projectId: "employee-tracker-621d5",
+  storageBucket: "employee-tracker-621d5.appspot.com",
+  messagingSenderId: "562010199507"
 };
 firebase.initializeApp(config);
 
